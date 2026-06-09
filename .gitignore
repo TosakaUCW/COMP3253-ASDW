@@ -8,3 +8,6 @@ tmp/
 ~$*.xlsx
 ~$*.ppt
 ~$*.pptx
+
+CLAUDE.md
+.spec-workflow/
